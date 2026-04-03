@@ -83,4 +83,4 @@ jupyter notebook numpy_exercise.ipynb
 **Ankur Vashistha**
 Certified Data Analyst | SQL • Python • Power BI • Tableau
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ankur-vashistha/)
