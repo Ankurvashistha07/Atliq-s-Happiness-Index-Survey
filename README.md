@@ -1,4 +1,4 @@
-# Atliq's-Happiness-Index-Survey
+# Atliq-Happiness-Index-Survey
 
 # 🧠 NumPy HR Analytics — AtliQ Employee Happiness Case Study
 
